@@ -1,5 +1,3 @@
-import Image from "next/image";
-import NumberForm from "./forms/number-form";
 import NumberGuesserForm from "./forms/number-guess-form";
 
 export default function Home() {
