@@ -1,10 +1,9 @@
-import NumberGuesserForm from "./forms/number-guess-form";
+import NumberGuesserForm from "./forms/guess-form/page";
 
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-        {/* <NumberForm /> */}
-        <NumberGuesserForm />
+      <div>Hello world</div>
     </main>
   );
 }
